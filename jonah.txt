@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+	printf("git is such a hassle. FB NALANG");
+	
+	return 0;
+}
